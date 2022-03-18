@@ -1,0 +1,3 @@
+﻿  1.c
+E:\Annnew Studio\数据结构学习\MasterCoding\Project2\Project2\1.c(19,8): warning C4047: “=”:“int *”与“int”的间接级别不同
+  Project2.vcxproj -> E:\Annnew Studio\数据结构学习\MasterCoding\Project2\x64\Debug\Project2.exe

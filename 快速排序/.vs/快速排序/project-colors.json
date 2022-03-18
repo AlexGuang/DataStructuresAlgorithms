@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9016c398-8783-4016-81ae-b2523d002818": {
+      "ProjectGuid": "9016c398-8783-4016-81ae-b2523d002818",
+      "DisplayName": "快速排序",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

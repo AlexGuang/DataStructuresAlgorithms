@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "017efc7d-a4e6-4185-be9c-a4ef7cacbc14": {
+      "ProjectGuid": "017efc7d-a4e6-4185-be9c-a4ef7cacbc14",
+      "DisplayName": "自己调用自己",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,3 @@
+﻿  findTheAverageScoreOfAClass.c
+E:\Annnew Studio\数据结构学习\MasterCoding\Project4\Project4\findTheAverageScoreOfAClass.c(20,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“double”
+  Project4.vcxproj -> E:\Annnew Studio\数据结构学习\MasterCoding\Project4\x64\Debug\Project4.exe
